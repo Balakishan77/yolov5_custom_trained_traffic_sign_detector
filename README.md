@@ -17,7 +17,7 @@ For example, file 00001.txt includes three bounding boxes (each in a new line) t
 
 3 0.736764705882353 0.453125 0.04264705882352941 0.06875
 
-Traffic Sins in this Dataset are grouped into four categories:
+Traffic signs in this Dataset are grouped into four categories:
 
 prohibitory
 
