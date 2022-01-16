@@ -19,9 +19,9 @@ For example, file 00001.txt includes three bounding boxes (each in a new line) t
 
 Traffic signs in this Dataset are grouped into four categories:
 
-prohibitory
+speed limit
 
-danger
+yield
 
 mandatory
 
