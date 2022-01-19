@@ -40,5 +40,6 @@ Original image from validation set:
 Inference results on the above image using Yolov5 custome trained model:
 ![image](https://user-images.githubusercontent.com/40944675/149649679-9af73ed1-3ba4-4525-bf58-da8bdb1fa1a9.png)
 
-
+Inference results on the video using Yolov5 custome trained model:
+![traffic-sign-to-test](https://user-images.githubusercontent.com/40944675/150083931-f74566c1-cf7e-4463-aebc-6cf09821f4c3.gif)
 
